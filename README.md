@@ -1,55 +1,39 @@
-# Olá, eu sou o Leonardo
+# Oi, meu nome é Aline 
 
-- Cursando Ciência da Computação
-- Atualmente trabalho como desenvolvedor PHP e front-end Vue.js
-- Atuo também como Analista de Dados através de ferramentas como Metabase e PowerBI
+- Cursando Web Full Stack na Let's Code 
+- Atualmente trabalho como Desenvolvedora de back end (Trainee)
+- Em transição de carreira 
 
 ## Stacks
 
 ### Programming Languages
 <p>
-  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="Python" src="https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/html-777BB4?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54">
 </p>
 
 ### Frameworks
 <p>
-  <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 </p>
 
 ### Databases
 <p>
-    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
-</p>
-
-### Tests
-<p>
-  <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-</p>
-
-### Others
-<p>
-  <img alt="bi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
-  <img alt="fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-CC2927?style=for-the-badge&logo=mongodb&logoColor=white"> 
 </p>
 
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akioleo&show_icons=true&&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akioleo&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alinevitalino&show_icons=true&&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinevitalino&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/leonardo-akio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:akioleonardo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a title="leoakio#1154" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/aline-a-vitalino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:alinevitalino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a title="alinealencar#0648" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

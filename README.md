@@ -1,39 +1,60 @@
-# Oi, meu nome é Aline 
+<h1 align="left">Hi 👋🏼 What's up?</h1>
 
-- Cursando Web Full Stack na Let's Code 
-- Atualmente trabalho como Desenvolvedora de back end (Trainee)
-- Em transição de carreira 
+###
 
-## Stacks
+<p align="left">My name is Aline and I'm a Back End Developer, from BH/MG - Brazil</p>
 
-### Programming Languages
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="Python" src="https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/html-777BB4?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css3&logoColor=ffdd54">
-</p>
+###
 
-### Frameworks
-<p>
-  <img alt="React" src="https://img.shields.io/badge/react-%230175C2.svg?style=for-the-badge&logo=react&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-</p>
+<h2 align="left">About me</h2>
 
-### Databases
-<p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-CC2927?style=for-the-badge&logo=mongodb&logoColor=white"> 
-</p>
+###
 
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java/Spring Boot and AWS<br>🎯 Goals: Always looking for new learnings,<br>knowledge, challenges and experiences<br>🎲 Curiosity: In career transition</p>
 
-## Github Stats
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alinevitalino&show_icons=true&&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinevitalino&layout=compact&theme=dracula)](https://github.com/headrockz/github-readme-stats)
+<h2 align="left">Stacks</h2>
 
-## Contact
+###
 
-<a href="https://www.linkedin.com/in/aline-a-vitalino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:alinevitalino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a title="alinealencar#0648" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<img href="https://raw.githubusercontent.com/Alinevitalino/Alinevitalino/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aline-a-vitalino/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Aline Alencar#0648" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="alinevitalino@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###

@@ -37,7 +37,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Alinevitalino/Alinevitalino/blob/output/snake.svg" alt="Snake animation" />
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Alinevitalino/Alinevitalino/svg/github-contribution-grid-snake.svg)](https://github.com/Alinevitalino)
 
 ###
 
